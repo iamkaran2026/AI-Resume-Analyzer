@@ -115,7 +115,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 💬 Contact
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or email at `yourname@example.com`.
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/karan-mevada-19745527b/]) or email at `karanmewada26@gmail.com`.
 
 ---
 
